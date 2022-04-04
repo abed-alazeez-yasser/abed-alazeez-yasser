@@ -1,7 +1,12 @@
 <h1 align="center">
-  <img src="JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  
+    
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://example.com/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/abed-alazeez-yasser)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abed-alazeez-y-alshorafa-8016021a1/)
 </h1>
 <!--
 **abed-alazeez-yasser/abed-alazeez-yasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
