@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abed-alazeez-yasser&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
   
@@ -53,7 +52,6 @@ Here are some ideas to get you started:
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/github-contribution-grid-snake.svg)
 
 <br/>
 
