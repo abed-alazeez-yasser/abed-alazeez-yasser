@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/abed-alazeez-yasser)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abed-alazeez-y-alshorafa-8016021a1/)
 </h1>
-
+[![](https://visitcount.itsvg.in/api?id=abed-alazeez-yasser&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 **abed-alazeez-yasser/abed-alazeez-yasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
